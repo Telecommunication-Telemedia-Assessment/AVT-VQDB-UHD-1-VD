@@ -1,0 +1,48 @@
+{
+    "date": "2024-10-03 18:39:07.014242",
+    "debug": {
+        "baseline": 2.587270524331256,
+        "coding_deg": 38.221610276725016,
+        "rf_pred": 2.138962687353259,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0,
+        "1.0_quantil_FrameSize": 73336.0,
+        "Bitrate": 239.255859375,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 1.0,
+        "iqr_min_QP": 1.0,
+        "kurtosis_Av_Motion": 34.46384629022509,
+        "kurtosis_Av_QPBB_non-i": 0.912584471818922,
+        "kurtosis_FrameSize_non-i": 5.717477726389928,
+        "mean_Av_QPBB_non_i": 39.50544095851306,
+        "predicted_mos_mode3_baseline": 2.587270524331256,
+        "quant": 0.7746164893826091,
+        "std_FrameSize_non-i": 182.44708107806122,
+        "std_max_QP_non-i": 1.1744629663166337,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.357827006889014,
+        2.366801588246363,
+        2.356994714680618,
+        2.350798168210723,
+        2.339795395120843,
+        2.370771329562906,
+        2.3777626028045997,
+        2.3769744647031805,
+        2.365283682326704,
+        2.3682516138264535
+    ],
+    "per_sequence": 2.3631166058422575,
+    "version": "0.1.2",
+    "video_basename": "Reading_Stairs_ds_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Reading_Stairs_ds_720p_crf30_hevc.mkv"
+}

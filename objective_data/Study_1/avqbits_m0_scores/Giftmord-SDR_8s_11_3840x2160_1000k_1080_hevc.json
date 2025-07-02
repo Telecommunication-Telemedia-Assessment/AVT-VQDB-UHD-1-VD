@@ -1,0 +1,23 @@
+{
+    "date": "2025-01-20 10:45:13.160833",
+    "debug": {
+        "coding_deg": 43.94087575381386,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175,
+        3.0376686267858175
+    ],
+    "per_sequence": 3.0376686267858175,
+    "version": "0.1.0",
+    "video_basename": "Giftmord-SDR_8s_11_3840x2160_1000k_1080_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/Giftmord-SDR_8s_11_3840x2160_1000k_1080_hevc.mkv"
+}

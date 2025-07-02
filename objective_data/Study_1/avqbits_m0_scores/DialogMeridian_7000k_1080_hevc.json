@@ -1,0 +1,25 @@
+{
+    "date": "2025-01-20 10:45:13.055786",
+    "debug": {
+        "coding_deg": 28.777988410378967,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206,
+        3.9995047438434206
+    ],
+    "per_sequence": 3.9995047438434206,
+    "version": "0.1.0",
+    "video_basename": "DialogMeridian_7000k_1080_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/DialogMeridian_7000k_1080_hevc.mkv"
+}

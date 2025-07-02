@@ -1,0 +1,48 @@
+{
+    "date": "2024-10-03 08:38:38.937678",
+    "debug": {
+        "baseline": 2.346381688748621,
+        "coding_deg": 24.73267596456175,
+        "rf_pred": 2.2784914760054518,
+        "temporal_deg": 4.24464617766511,
+        "upscaling_deg": 32.48044415458403
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 7571.0,
+        "Bitrate": 121.134765625,
+        "Framerate": 30.0,
+        "Resolution": 230400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 4.883554153258245,
+        "iqr_min_QP": 6.0,
+        "kurtosis_Av_Motion": 4.164797226341383,
+        "kurtosis_Av_QPBB_non-i": -0.9992569716896171,
+        "kurtosis_FrameSize_non-i": 4.86345317901518,
+        "mean_Av_QPBB_non_i": 27.29777242996667,
+        "predicted_mos_mode3_baseline": 2.346381688748621,
+        "quant": 0.535250439803268,
+        "std_FrameSize_non-i": 818.1472882611864,
+        "std_max_QP_non-i": 1.4819281352766136,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.311202499477681,
+        2.2824090299802573,
+        2.2406406424085805,
+        2.2567009668074043,
+        2.3695943589970203,
+        2.3413031958559047,
+        2.2565941321119087,
+        2.2805527885191474,
+        2.356780764592078,
+        2.445730661225789
+    ],
+    "per_sequence": 2.3124365823770363,
+    "version": "0.1.2",
+    "video_basename": "AVT-Faces_lightingLoop__V8-0019_360p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/AVT-Faces_lightingLoop__V8-0019_360p_crf22_hevc.mkv"
+}

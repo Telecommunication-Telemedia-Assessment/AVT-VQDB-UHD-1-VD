@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 11:24:42.645841",
+    "debug": {
+        "baseline": 1.839774128110896,
+        "coding_deg": 70.65649104663005,
+        "rf_pred": 2.3586236579823403,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 57787.0,
+        "Bitrate": 1788.21484375,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 5.030352881893499,
+        "iqr_min_QP": 10.0,
+        "kurtosis_Av_Motion": 18.588554712330808,
+        "kurtosis_Av_QPBB_non-i": -0.6109784278017192,
+        "kurtosis_FrameSize_non-i": 1.064890194299661,
+        "mean_Av_QPBB_non_i": 48.84738709980739,
+        "predicted_mos_mode3_baseline": 1.839774128110896,
+        "quant": 0.957791903917792,
+        "std_FrameSize_non-i": 4614.790351010915,
+        "std_max_QP_non-i": 0.3663669732468039,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.1251378013330364,
+        2.1059277374782157,
+        2.102640048304836,
+        2.09829745640895,
+        2.077208268130811,
+        2.0913551073275674,
+        2.0969386965599464,
+        2.0991988930466183
+    ],
+    "per_sequence": 2.0991988930466183,
+    "version": "0.1.2",
+    "video_basename": "CSGO_8s_23000-31000.avi_2160p_crf42_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/CSGO_8s_23000-31000.avi_2160p_crf42_hevc.mkv"
+}

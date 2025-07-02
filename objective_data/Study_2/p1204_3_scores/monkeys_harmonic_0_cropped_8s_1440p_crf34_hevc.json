@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 15:48:15.201688",
+    "debug": {
+        "baseline": 3.148717047088624,
+        "coding_deg": 42.56831054866397,
+        "rf_pred": 3.4077822111861034,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.003029570567995
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 1.7331655882715638,
+        "1.0_quantil_FrameSize": 96655.0,
+        "Bitrate": 1664.6982421875,
+        "Framerate": 60.0,
+        "Resolution": 3686400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.058025932041062,
+        "iqr_min_QP": 4.0,
+        "kurtosis_Av_Motion": 5.4721710966462,
+        "kurtosis_Av_QPBB_non-i": -0.7745419538107097,
+        "kurtosis_FrameSize_non-i": 0.11374220636144594,
+        "mean_Av_QPBB_non_i": 41.56208395363766,
+        "predicted_mos_mode3_baseline": 3.148717047088624,
+        "quant": 0.8149428226203463,
+        "std_FrameSize_non-i": 3835.122590794496,
+        "std_max_QP_non-i": 1.2602604688681156,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.275239885579957,
+        3.281393925387459,
+        3.271747144157974,
+        3.26958351307417,
+        3.267856274544172,
+        3.2954302086055534,
+        3.2935888415771744,
+        3.2711842557610082
+    ],
+    "per_sequence": 3.2782496291373637,
+    "version": "0.1.2",
+    "video_basename": "monkeys_harmonic_0_cropped_8s_1440p_crf34_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/monkeys_harmonic_0_cropped_8s_1440p_crf34_hevc.mkv"
+}

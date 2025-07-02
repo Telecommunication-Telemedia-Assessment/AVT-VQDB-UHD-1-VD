@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 09:17:48.719121",
+    "debug": {
+        "baseline": 1.377545482440298,
+        "coding_deg": 54.324024486306826,
+        "rf_pred": 1.243804193709518,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 26.97842638934178
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0,
+        "1.0_quantil_FrameSize": 8340.0,
+        "Bitrate": 72.1103515625,
+        "Framerate": 60.0,
+        "Resolution": 409920.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 20.593602835331886,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 19.724969848550373,
+        "mean_Av_QPBB_non_i": 45.534798670512146,
+        "predicted_mos_mode3_baseline": 1.377545482440298,
+        "quant": 0.8928391896178852,
+        "std_FrameSize_non-i": 199.832182843862,
+        "std_max_QP_non-i": 1.2346444207367973,
+        "vp9": 0.0
+    },
+    "per_second": [
+        1.3106748380749078,
+        1.3106748380749078,
+        1.3106748380749078,
+        1.3106748380749078,
+        1.3106748380749078,
+        1.2562067223834497,
+        1.3106748380749078,
+        1.3106748380749078
+    ],
+    "per_sequence": 1.3106748380749078,
+    "version": "0.1.2",
+    "video_basename": "Chimera-EP01_8s_0-8000.avi_480p_crf38_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Chimera-EP01_8s_0-8000.avi_480p_crf38_hevc.mkv"
+}

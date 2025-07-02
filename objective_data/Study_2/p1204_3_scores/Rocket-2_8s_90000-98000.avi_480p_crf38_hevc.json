@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 20:10:50.387995",
+    "debug": {
+        "baseline": 1.2857773397865722,
+        "coding_deg": 57.09564019739051,
+        "rf_pred": 1.2143518810877076,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 26.97842638934178
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 1.1898560156736475,
+        "1.0_quantil_FrameSize": 7440.0,
+        "Bitrate": 445.587890625,
+        "Framerate": 60.0,
+        "Resolution": 409920.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 4.200152882594807,
+        "iqr_min_QP": 5.0,
+        "kurtosis_Av_Motion": 6.875265291528681,
+        "kurtosis_Av_QPBB_non-i": -1.0798941116970315,
+        "kurtosis_FrameSize_non-i": -0.1562427448591306,
+        "mean_Av_QPBB_non_i": 46.24143134617801,
+        "predicted_mos_mode3_baseline": 1.2857773397865722,
+        "quant": 0.9066947322780002,
+        "std_FrameSize_non-i": 967.5676916107751,
+        "std_max_QP_non-i": 1.2728598808070635,
+        "vp9": 0.0
+    },
+    "per_second": [
+        1.2546338914698656,
+        1.2501476050749247,
+        1.2535876845936174,
+        1.250804969256005,
+        1.2434485856190185,
+        1.2468577909871688,
+        1.2520037594508522,
+        1.2490718486124046
+    ],
+    "per_sequence": 1.25006461043714,
+    "version": "0.1.2",
+    "video_basename": "Rocket-2_8s_90000-98000.avi_480p_crf38_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Rocket-2_8s_90000-98000.avi_480p_crf38_hevc.mkv"
+}

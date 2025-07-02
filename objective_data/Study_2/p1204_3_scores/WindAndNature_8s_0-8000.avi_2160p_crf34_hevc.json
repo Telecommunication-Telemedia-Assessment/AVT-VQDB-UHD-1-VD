@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 20:50:58.701606",
+    "debug": {
+        "baseline": 3.440253968485565,
+        "coding_deg": 44.03184011533915,
+        "rf_pred": 3.2064328757430762,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.6763085873373533,
+        "1.0_quantil_FrameSize": 47949.0,
+        "Bitrate": 2539.5322265625,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 1.334659987177794,
+        "iqr_min_QP": 1.0,
+        "kurtosis_Av_Motion": 0.3848021447120642,
+        "kurtosis_Av_QPBB_non-i": -0.056222372438083035,
+        "kurtosis_FrameSize_non-i": 0.36225266847272497,
+        "mean_Av_QPBB_non_i": 42.16587587222606,
+        "predicted_mos_mode3_baseline": 3.440253968485565,
+        "quant": 0.8267818798475698,
+        "std_FrameSize_non-i": 3738.9106509801168,
+        "std_max_QP_non-i": 1.1748156235511722,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.3252730342551873,
+        3.33176810557491,
+        3.32800373142952,
+        3.3205590340039177,
+        3.3170280081476267,
+        3.3204503345898644,
+        3.3180200829247424,
+        3.3256276677780807
+    ],
+    "per_sequence": 3.3233434221143208,
+    "version": "0.1.2",
+    "video_basename": "WindAndNature_8s_0-8000.avi_2160p_crf34_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/WindAndNature_8s_0-8000.avi_2160p_crf34_hevc.mkv"
+}

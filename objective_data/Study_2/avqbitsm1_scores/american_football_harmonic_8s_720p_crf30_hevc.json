@@ -1,0 +1,22 @@
+{
+    "date": "2024-11-08 16:39:39.488697",
+    "debug": {
+        "coding_deg": 32.01052607031899,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.135478790205809,
+        3.135478790205809,
+        3.135478790205809,
+        3.135478790205809,
+        3.135478790205809,
+        3.135478790205809,
+        3.135478790205809
+    ],
+    "per_sequence": 3.135478790205809,
+    "version": "0.1.0",
+    "video_basename": "american_football_harmonic_8s_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/american_football_harmonic_8s_720p_crf30_hevc.mkv"
+}

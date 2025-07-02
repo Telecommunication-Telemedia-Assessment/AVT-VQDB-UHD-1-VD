@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 15:07:04.750577",
+    "debug": {
+        "baseline": 2.82453162752404,
+        "coding_deg": 34.4156495620104,
+        "rf_pred": 2.8047014991678325,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 39055.0,
+        "Bitrate": 551.9423828125,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.9023930024349127,
+        "iqr_min_QP": 5.0,
+        "kurtosis_Av_Motion": 5.1300544462091775,
+        "kurtosis_Av_QPBB_non-i": -0.7960143743269832,
+        "kurtosis_FrameSize_non-i": 2.2344774219001176,
+        "mean_Av_QPBB_non_i": 37.27064952627759,
+        "predicted_mos_mode3_baseline": 2.82453162752404,
+        "quant": 0.7307970495348547,
+        "std_FrameSize_non-i": 1374.1409567256255,
+        "std_max_QP_non-i": 1.2122604349115234,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.8251613999270897,
+        2.834537018865685,
+        2.834920054847048,
+        2.8330109762864075,
+        2.7838990813724807,
+        2.831712527412458,
+        2.8256972910726685,
+        2.7500952104015046
+    ],
+    "per_sequence": 2.814616563345936,
+    "version": "0.1.2",
+    "video_basename": "LeagueOfLegends-1_8s_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/LeagueOfLegends-1_8s_720p_crf30_hevc.mkv"
+}

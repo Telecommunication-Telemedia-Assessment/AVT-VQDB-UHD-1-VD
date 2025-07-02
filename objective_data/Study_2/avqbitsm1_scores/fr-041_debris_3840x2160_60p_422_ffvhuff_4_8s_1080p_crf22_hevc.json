@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:39:56.131814",
+    "debug": {
+        "coding_deg": 25.060778908519083,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563,
+        4.222314408170563
+    ],
+    "per_sequence": 4.222314408170563,
+    "version": "0.1.0",
+    "video_basename": "fr-041_debris_3840x2160_60p_422_ffvhuff_4_8s_1080p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/fr-041_debris_3840x2160_60p_422_ffvhuff_4_8s_1080p_crf22_hevc.mkv"
+}

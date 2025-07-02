@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 16:47:52.239626",
+    "debug": {
+        "baseline": 1.8101591581441687,
+        "coding_deg": 59.74988502065932,
+        "rf_pred": 1.6155685577153631,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.09941699431855434,
+        "1.0_quantil_FrameSize": 7235.0,
+        "Bitrate": 234.1142578125,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.6105586249232644,
+        "iqr_min_QP": 5.0,
+        "kurtosis_Av_Motion": 9.036732575838355,
+        "kurtosis_Av_QPBB_non-i": -0.7122977221752484,
+        "kurtosis_FrameSize_non-i": 5.840137651247952,
+        "mean_Av_QPBB_non_i": 46.85592948616344,
+        "predicted_mos_mode3_baseline": 1.8101591581441687,
+        "quant": 0.9187437154149695,
+        "std_FrameSize_non-i": 455.080757813029,
+        "std_max_QP_non-i": 1.1859476208986215,
+        "vp9": 0.0
+    },
+    "per_second": [
+        1.6923365331150377,
+        1.7105169534657714,
+        1.7058295756082917,
+        1.6963561834936483,
+        1.6977265683214873,
+        1.7294187110246848,
+        1.7531296991213916,
+        1.718675601036556
+    ],
+    "per_sequence": 1.712863857929766,
+    "version": "0.1.2",
+    "video_basename": "nocturne_8s_123000-131000.avi_1080p_crf38_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/nocturne_8s_123000-131000.avi_1080p_crf38_hevc.mkv"
+}

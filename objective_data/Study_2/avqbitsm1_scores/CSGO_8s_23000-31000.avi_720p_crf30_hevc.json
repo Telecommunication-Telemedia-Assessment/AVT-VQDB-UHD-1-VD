@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:39:39.546863",
+    "debug": {
+        "coding_deg": 31.998518556966616,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262,
+        3.13624919616262
+    ],
+    "per_sequence": 3.13624919616262,
+    "version": "0.1.0",
+    "video_basename": "CSGO_8s_23000-31000.avi_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/CSGO_8s_23000-31000.avi_720p_crf30_hevc.mkv"
+}

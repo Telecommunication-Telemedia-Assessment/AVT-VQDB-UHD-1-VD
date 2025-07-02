@@ -1,0 +1,47 @@
+{
+    "date": "2024-10-03 17:14:24.711488",
+    "debug": {
+        "baseline": 1.9115842330218793,
+        "coding_deg": 36.77475057787159,
+        "rf_pred": 1.7375878303473855,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 32.48044415458403
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0,
+        "1.0_quantil_FrameSize": 4692.0,
+        "Bitrate": 81.865234375,
+        "Framerate": 60.0,
+        "Resolution": 230400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.0,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 5.877803179379187,
+        "kurtosis_Av_QPBB_non-i": 0.5166137698451889,
+        "kurtosis_FrameSize_non-i": 7.63519285427537,
+        "mean_Av_QPBB_non_i": 38.7131266853453,
+        "predicted_mos_mode3_baseline": 1.9115842330218793,
+        "quant": 0.7590809153989275,
+        "std_FrameSize_non-i": 211.66321332225286,
+        "std_max_QP_non-i": 1.6835256497822308,
+        "vp9": 0.0
+    },
+    "per_second": [
+        1.8062153184670975,
+        1.815939934037311,
+        1.8196638117834767,
+        1.8341866181354964,
+        1.8339962688231812,
+        1.8409731286574722,
+        1.8280411963470586,
+        1.8231372378721304,
+        1.8274966305044207
+    ],
+    "per_sequence": 1.8245860316846323,
+    "version": "0.1.2",
+    "video_basename": "life-untouched_8s_19000-28000.avi_360p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/life-untouched_8s_19000-28000.avi_360p_crf30_hevc.mkv"
+}

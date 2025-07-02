@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 13:45:15.807654",
+    "debug": {
+        "baseline": 2.4976008940256236,
+        "coding_deg": 26.451180242042483,
+        "rf_pred": 2.3108857148610684,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 32.48044415458403
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.21286073230641836,
+        "1.0_quantil_FrameSize": 20981.0,
+        "Bitrate": 803.2294921875,
+        "Framerate": 60.0,
+        "Resolution": 230400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.7856565671631017,
+        "iqr_min_QP": 8.0,
+        "kurtosis_Av_Motion": 1.371200566292175,
+        "kurtosis_Av_QPBB_non-i": -1.0319160582723195,
+        "kurtosis_FrameSize_non-i": -0.35967140954308086,
+        "mean_Av_QPBB_non_i": 29.937770685983356,
+        "predicted_mos_mode3_baseline": 2.4976008940256236,
+        "quant": 0.5870151114898697,
+        "std_FrameSize_non-i": 2224.388359695319,
+        "std_max_QP_non-i": 1.6502520541252188,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.393642209929698,
+        2.4053585110201556,
+        2.4104436192034338,
+        2.4148169080949957,
+        2.3857734081357127,
+        2.4113230662073843,
+        2.4048084422805376,
+        2.4075708094481234
+    ],
+    "per_sequence": 2.404243304443346,
+    "version": "0.1.2",
+    "video_basename": "ElFuente_8s_8000-16000.avi_360p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/ElFuente_8s_8000-16000.avi_360p_crf22_hevc.mkv"
+}

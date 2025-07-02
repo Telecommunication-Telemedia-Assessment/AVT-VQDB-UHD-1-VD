@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 19:34:40.500850",
+    "debug": {
+        "baseline": 4.178854632344713,
+        "coding_deg": 26.158432966314095,
+        "rf_pred": 4.1937111408898256,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.003029570567995
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.29268251119708,
+        "1.0_quantil_FrameSize": 178650.0,
+        "Bitrate": 2823.8046875,
+        "Framerate": 60.0,
+        "Resolution": 3686400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 1.7575843701587566,
+        "iqr_min_QP": 2.0,
+        "kurtosis_Av_Motion": 36.38710560011667,
+        "kurtosis_Av_QPBB_non-i": 0.13207154177313463,
+        "kurtosis_FrameSize_non-i": 0.8316420490829763,
+        "mean_Av_QPBB_non_i": 29.53472457808625,
+        "predicted_mos_mode3_baseline": 4.178854632344713,
+        "quant": 0.5791122466291422,
+        "std_FrameSize_non-i": 7252.676648945569,
+        "std_max_QP_non-i": 1.1663254603358937,
+        "vp9": 0.0
+    },
+    "per_second": [
+        4.169601153576006,
+        4.204108545607329,
+        4.164576917915211,
+        4.183189327585963,
+        4.176208916493162,
+        4.1828404838134805,
+        4.182102333528844,
+        4.227886413539884
+    ],
+    "per_sequence": 4.186282886617269,
+    "version": "0.1.2",
+    "video_basename": "Tennis-1-2048x1152_8s_0-8000.avi_1440p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Tennis-1-2048x1152_8s_0-8000.avi_1440p_crf22_hevc.mkv"
+}

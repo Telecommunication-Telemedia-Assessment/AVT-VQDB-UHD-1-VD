@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 11:56:23.979415",
+    "debug": {
+        "baseline": 4.291799397661688,
+        "coding_deg": 30.23128751553871,
+        "rf_pred": 3.396983585534606,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.19236057962221,
+        "1.0_quantil_FrameSize": 65413.0,
+        "Bitrate": 1694.6845703125,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 2.0,
+        "kurtosis_Av_Motion": 8.739465322271839,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 3.5588727068429256,
+        "mean_Av_QPBB_non_i": 34.06859221801895,
+        "predicted_mos_mode3_baseline": 4.291799397661688,
+        "quant": 0.6680116121180186,
+        "std_FrameSize_non-i": 4662.707876641761,
+        "std_max_QP_non-i": 1.1764943747785621,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.8583763922588474,
+        3.808213994603117,
+        3.7922531424150736,
+        3.855142843773238,
+        3.871888398349056,
+        3.8725040559575974,
+        3.8950095606779906,
+        3.844391491598147
+    ],
+    "per_sequence": 3.844391491598147,
+    "version": "0.1.2",
+    "video_basename": "DeadMansHand_8s_93500-101500.avi_2160p_crf26_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/DeadMansHand_8s_93500-101500.avi_2160p_crf26_hevc.mkv"
+}

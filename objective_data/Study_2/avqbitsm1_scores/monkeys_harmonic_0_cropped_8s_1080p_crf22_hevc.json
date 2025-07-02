@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:39:55.643635",
+    "debug": {
+        "coding_deg": 27.75199445961293,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019,
+        4.06187138040019
+    ],
+    "per_sequence": 4.06187138040019,
+    "version": "0.1.0",
+    "video_basename": "monkeys_harmonic_0_cropped_8s_1080p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/monkeys_harmonic_0_cropped_8s_1080p_crf22_hevc.mkv"
+}

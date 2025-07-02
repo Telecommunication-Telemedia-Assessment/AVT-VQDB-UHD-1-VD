@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 19:12:05.158510",
+    "debug": {
+        "baseline": 2.262928315205592,
+        "coding_deg": 43.64274676224324,
+        "rf_pred": 2.0626580979175473,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.06504484498348788,
+        "1.0_quantil_FrameSize": 14552.0,
+        "Bitrate": 840.15625,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 2.4694223711633754,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 13.1171625239936,
+        "kurtosis_Av_QPBB_non-i": -0.6173249499247482,
+        "kurtosis_FrameSize_non-i": 3.392953231353599,
+        "mean_Av_QPBB_non_i": 42.009121306930204,
+        "predicted_mos_mode3_baseline": 2.262928315205592,
+        "quant": 0.8237082609202001,
+        "std_FrameSize_non-i": 1649.573095131078,
+        "std_max_QP_non-i": 1.200518061241701,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.132041564893961,
+        2.155208140420144,
+        2.1518752824406993,
+        2.1548014073115933,
+        2.164260933093802,
+        2.2047095980588227,
+        2.1850440582784123,
+        2.1556332368473723
+    ],
+    "per_sequence": 2.1627932065615694,
+    "version": "0.1.2",
+    "video_basename": "Sparks_8s_107000-115000.avi_720p_crf34_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Sparks_8s_107000-115000.avi_720p_crf34_hevc.mkv"
+}

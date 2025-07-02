@@ -1,0 +1,23 @@
+{
+    "date": "2025-01-20 10:47:32.741725",
+    "debug": {
+        "coding_deg": 33.752705282275386,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617,
+        3.6897947362601617
+    ],
+    "per_sequence": 3.6897947362601617,
+    "version": "0.1.0",
+    "video_basename": "water_netflix_8s_3500k_1080_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/water_netflix_8s_3500k_1080_hevc.mkv"
+}

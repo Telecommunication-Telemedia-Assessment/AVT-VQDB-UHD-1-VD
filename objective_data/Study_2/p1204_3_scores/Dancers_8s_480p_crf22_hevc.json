@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 10:52:38.178083",
+    "debug": {
+        "baseline": 2.833261706829944,
+        "coding_deg": 26.540643860729546,
+        "rf_pred": 2.6024465319995835,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 26.97842638934178
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 7377.0,
+        "Bitrate": 327.560546875,
+        "Framerate": 60.0,
+        "Resolution": 409920.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 3.052330144714251,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 1.8377950581410216,
+        "kurtosis_Av_QPBB_non-i": -0.532351772285093,
+        "kurtosis_FrameSize_non-i": 1.3181514567776675,
+        "mean_Av_QPBB_non_i": 30.057778694120607,
+        "predicted_mos_mode3_baseline": 2.833261706829944,
+        "quant": 0.5893682096886393,
+        "std_FrameSize_non-i": 796.5441450568458,
+        "std_max_QP_non-i": 1.1860825968406457,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.6287059235731642,
+        2.730563220636673,
+        2.721578124312928,
+        2.750148309918658,
+        2.7019849030603678,
+        2.769878322947847,
+        2.748459955893795,
+        2.6947873354960827
+    ],
+    "per_sequence": 2.717854119414764,
+    "version": "0.1.2",
+    "video_basename": "Dancers_8s_480p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Dancers_8s_480p_crf22_hevc.mkv"
+}

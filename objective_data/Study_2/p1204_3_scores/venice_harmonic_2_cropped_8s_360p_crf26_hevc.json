@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 18:24:42.064365",
+    "debug": {
+        "baseline": 2.269433272640674,
+        "coding_deg": 30.29188077586666,
+        "rf_pred": 2.2138442826028806,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 32.48044415458403
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.1520486483786207,
+        "1.0_quantil_FrameSize": 18194.0,
+        "Bitrate": 640.2841796875,
+        "Framerate": 60.0,
+        "Resolution": 230400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 6.377631980469939,
+        "iqr_min_QP": 10.0,
+        "kurtosis_Av_Motion": 0.2665568391816686,
+        "kurtosis_Av_QPBB_non-i": -0.9251770974809288,
+        "kurtosis_FrameSize_non-i": 0.9614693221232322,
+        "mean_Av_QPBB_non_i": 34.122907958522006,
+        "predicted_mos_mode3_baseline": 2.269433272640674,
+        "quant": 0.6690766266376864,
+        "std_FrameSize_non-i": 2071.964351793343,
+        "std_max_QP_non-i": 1.363634596004967,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.2332821738032624,
+        2.2606077140541334,
+        2.2462520749786163,
+        2.254831667471662,
+        2.21812064609128,
+        2.251868489572234,
+        2.23380460519316,
+        2.2344305877439297
+    ],
+    "per_sequence": 2.241638777621777,
+    "version": "0.1.2",
+    "video_basename": "venice_harmonic_2_cropped_8s_360p_crf26_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/venice_harmonic_2_cropped_8s_360p_crf26_hevc.mkv"
+}

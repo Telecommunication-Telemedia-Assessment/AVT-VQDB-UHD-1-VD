@@ -1,0 +1,45 @@
+{
+    "date": "2024-10-03 08:49:11.003778",
+    "debug": {
+        "baseline": 1.5678568143207734,
+        "coding_deg": 57.219669672928504,
+        "rf_pred": 1.5106438487279454,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.5350785636255141,
+        "1.0_quantil_FrameSize": 20750.0,
+        "Bitrate": 521.1767578125,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 5.159283700683105,
+        "iqr_min_QP": 7.0,
+        "kurtosis_Av_Motion": 4.16637771068843,
+        "kurtosis_Av_QPBB_non-i": -0.6833943580253923,
+        "kurtosis_FrameSize_non-i": 5.281887531725857,
+        "mean_Av_QPBB_non_i": 46.27145824748282,
+        "predicted_mos_mode3_baseline": 1.5678568143207734,
+        "quant": 0.9072834950486828,
+        "std_FrameSize_non-i": 1378.9473279575982,
+        "std_max_QP_non-i": 1.3517308217413366,
+        "vp9": 0.0
+    },
+    "per_second": [
+        1.5287132034277613,
+        1.5271124104289409,
+        1.5269428865330485,
+        1.5485698675606352,
+        1.5574066695089244,
+        1.5464745676154759,
+        1.5477736770166863
+    ],
+    "per_sequence": 1.5392503315243595,
+    "version": "0.1.2",
+    "video_basename": "american_football_harmonic_8s_720p_crf38_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/american_football_harmonic_8s_720p_crf38_hevc.mkv"
+}

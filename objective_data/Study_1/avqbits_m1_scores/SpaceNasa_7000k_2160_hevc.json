@@ -1,0 +1,25 @@
+{
+    "date": "2025-01-20 10:47:51.605688",
+    "debug": {
+        "coding_deg": 34.64411784010788,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176,
+        4.029815845719176
+    ],
+    "per_sequence": 4.029815845719176,
+    "version": "0.1.0",
+    "video_basename": "SpaceNasa_7000k_2160_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/SpaceNasa_7000k_2160_hevc.mkv"
+}

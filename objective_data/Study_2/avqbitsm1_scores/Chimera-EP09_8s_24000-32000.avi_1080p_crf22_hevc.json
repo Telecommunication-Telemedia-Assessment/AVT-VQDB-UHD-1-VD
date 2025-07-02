@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:39:48.602435",
+    "debug": {
+        "coding_deg": 28.92407370783964,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994,
+        3.990576155702994
+    ],
+    "per_sequence": 3.990576155702994,
+    "version": "0.1.0",
+    "video_basename": "Chimera-EP09_8s_24000-32000.avi_1080p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Chimera-EP09_8s_24000-32000.avi_1080p_crf22_hevc.mkv"
+}

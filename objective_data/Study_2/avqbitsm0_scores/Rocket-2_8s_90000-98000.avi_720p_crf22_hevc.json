@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:33:22.611914",
+    "debug": {
+        "coding_deg": 25.74463093760778,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757,
+        3.5375179049187757
+    ],
+    "per_sequence": 3.5375179049187757,
+    "version": "0.1.0",
+    "video_basename": "Rocket-2_8s_90000-98000.avi_720p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Rocket-2_8s_90000-98000.avi_720p_crf22_hevc.mkv"
+}

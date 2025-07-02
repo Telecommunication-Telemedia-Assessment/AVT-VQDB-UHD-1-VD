@@ -1,0 +1,25 @@
+{
+    "date": "2024-11-08 16:39:40.349341",
+    "debug": {
+        "coding_deg": 39.38035536853514,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781,
+        2.668586675200781
+    ],
+    "per_sequence": 2.668586675200781,
+    "version": "0.1.0",
+    "video_basename": "DialogMeridian_720p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/DialogMeridian_720p_crf22_hevc.mkv"
+}

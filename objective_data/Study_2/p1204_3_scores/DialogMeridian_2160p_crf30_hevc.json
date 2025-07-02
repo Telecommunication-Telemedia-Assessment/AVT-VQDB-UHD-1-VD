@@ -1,0 +1,48 @@
+{
+    "date": "2024-10-03 10:57:06.383637",
+    "debug": {
+        "baseline": 3.9327104846829277,
+        "coding_deg": 36.229896961068576,
+        "rf_pred": 3.5060288149368435,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.21877499837256034,
+        "1.0_quantil_FrameSize": 47392.0,
+        "Bitrate": 1128.5576171875,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 2.742605667355285,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": 12.262722130163748,
+        "kurtosis_Av_QPBB_non-i": -0.7076025462736304,
+        "kurtosis_FrameSize_non-i": 35.80053473546645,
+        "mean_Av_QPBB_non_i": 38.397759236330266,
+        "predicted_mos_mode3_baseline": 3.9327104846829277,
+        "quant": 0.7528972399280445,
+        "std_FrameSize_non-i": 3094.5462558997933,
+        "std_max_QP_non-i": 1.2059746192139977,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.6715939188361744,
+        3.671266512213065,
+        3.639678346111105,
+        3.8002923957511703,
+        3.8091358441421774,
+        3.7751500061413736,
+        3.7266987210642624,
+        3.690165498788446,
+        3.6935254206288732,
+        3.7244463405974892
+    ],
+    "per_sequence": 3.7193696498098854,
+    "version": "0.1.2",
+    "video_basename": "DialogMeridian_2160p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/DialogMeridian_2160p_crf30_hevc.mkv"
+}

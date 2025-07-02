@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 13:00:21.005192",
+    "debug": {
+        "baseline": 3.6828598726271142,
+        "coding_deg": 34.22283932214495,
+        "rf_pred": 3.3673946517084556,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.003029570567995
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.35708531591134657,
+        "1.0_quantil_FrameSize": 35854.0,
+        "Bitrate": 669.5302734375,
+        "Framerate": 60.0,
+        "Resolution": 3686400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 6.25,
+        "kurtosis_Av_Motion": 0.6181507389381022,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 1.4621975225339314,
+        "mean_Av_QPBB_non_i": 37.143147507071966,
+        "predicted_mos_mode3_baseline": 3.6828598726271142,
+        "quant": 0.7282970099425876,
+        "std_FrameSize_non-i": 1732.300647504819,
+        "std_max_QP_non-i": 1.2115076758575976,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5251272621677847,
+        3.5153423076241155
+    ],
+    "per_sequence": 3.5251272621677847,
+    "version": "0.1.2",
+    "video_basename": "Geist_8s_91000-99000.avi_1440p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Geist_8s_91000-99000.avi_1440p_crf30_hevc.mkv"
+}

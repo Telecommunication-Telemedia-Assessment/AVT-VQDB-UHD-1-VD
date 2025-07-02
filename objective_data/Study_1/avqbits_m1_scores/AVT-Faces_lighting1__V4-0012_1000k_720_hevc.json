@@ -1,0 +1,25 @@
+{
+    "date": "2025-01-20 10:47:05.314546",
+    "debug": {
+        "coding_deg": 32.74091022366477,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348,
+        3.088647693158348
+    ],
+    "per_sequence": 3.088647693158348,
+    "version": "0.1.0",
+    "video_basename": "AVT-Faces_lighting1__V4-0012_1000k_720_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/AVT-Faces_lighting1__V4-0012_1000k_720_hevc.mkv"
+}

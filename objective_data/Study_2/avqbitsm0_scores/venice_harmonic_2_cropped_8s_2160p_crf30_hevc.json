@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:33:22.230156",
+    "debug": {
+        "coding_deg": 43.552406831154464,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662,
+        3.470970249790662
+    ],
+    "per_sequence": 3.470970249790662,
+    "version": "0.1.0",
+    "video_basename": "venice_harmonic_2_cropped_8s_2160p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/venice_harmonic_2_cropped_8s_2160p_crf30_hevc.mkv"
+}

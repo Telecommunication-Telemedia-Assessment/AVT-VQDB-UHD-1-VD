@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:33:21.264650",
+    "debug": {
+        "coding_deg": 45.141680985550025,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747,
+        3.369046157682747
+    ],
+    "per_sequence": 3.369046157682747,
+    "version": "0.1.0",
+    "video_basename": "Moment_of_Intensity_8s_2160p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Moment_of_Intensity_8s_2160p_crf30_hevc.mkv"
+}

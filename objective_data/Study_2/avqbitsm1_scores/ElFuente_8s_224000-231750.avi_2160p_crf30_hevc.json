@@ -1,0 +1,22 @@
+{
+    "date": "2024-11-08 16:40:20.836096",
+    "debug": {
+        "coding_deg": 31.349858196479374,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        4.226681854963569,
+        4.226681854963569,
+        4.226681854963569,
+        4.226681854963569,
+        4.226681854963569,
+        4.226681854963569,
+        4.226681854963569
+    ],
+    "per_sequence": 4.226681854963569,
+    "version": "0.1.0",
+    "video_basename": "ElFuente_8s_224000-231750.avi_2160p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/ElFuente_8s_224000-231750.avi_2160p_crf30_hevc.mkv"
+}

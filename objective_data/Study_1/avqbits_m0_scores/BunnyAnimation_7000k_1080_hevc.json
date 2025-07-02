@@ -1,0 +1,25 @@
+{
+    "date": "2025-01-20 10:45:12.643165",
+    "debug": {
+        "coding_deg": 28.398106272311352,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995,
+        4.022667121768995
+    ],
+    "per_sequence": 4.022667121768995,
+    "version": "0.1.0",
+    "video_basename": "BunnyAnimation_7000k_1080_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/BunnyAnimation_7000k_1080_hevc.mkv"
+}

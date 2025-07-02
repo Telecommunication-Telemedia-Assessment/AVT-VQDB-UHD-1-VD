@@ -1,0 +1,25 @@
+{
+    "date": "2024-11-08 16:33:21.443375",
+    "debug": {
+        "coding_deg": 58.68044804455632,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294,
+        1.612139477560294
+    ],
+    "per_sequence": 1.612139477560294,
+    "version": "0.1.0",
+    "video_basename": "Reading_Stairs_ds_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Reading_Stairs_ds_720p_crf30_hevc.mkv"
+}

@@ -1,0 +1,23 @@
+{
+    "date": "2025-01-20 10:45:13.957237",
+    "debug": {
+        "coding_deg": 30.299288817855015,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296,
+        4.287868206183296
+    ],
+    "per_sequence": 4.287868206183296,
+    "version": "0.1.0",
+    "video_basename": "cutting_orange_tuil_8s_15000k_2160_hevc.mkv",
+    "video_full_path": "../../../avt-bigdata/co_worker/rakesh/4k_viewing_distance/encoded_hevc/cutting_orange_tuil_8s_15000k_2160_hevc.mkv"
+}

@@ -1,0 +1,46 @@
+{
+    "date": "2024-10-03 09:19:10.923335",
+    "debug": {
+        "baseline": 4.309306734227166,
+        "coding_deg": 29.927674088089603,
+        "rf_pred": 4.07062852216599,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 22.088751874837666,
+        "1.0_quantil_FrameSize": 200611.0,
+        "Bitrate": 36808.890625,
+        "Framerate": 60.0,
+        "Resolution": 8294400.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 1.0,
+        "hevc_10bit": 0.0,
+        "iqr_Av_QPBB_non-i": 1.5016029602850978,
+        "iqr_min_QP": 2.0,
+        "kurtosis_Av_Motion": 2.0988144170111065,
+        "kurtosis_Av_QPBB_non-i": -0.8845317781750137,
+        "kurtosis_FrameSize_non-i": -0.595034975030142,
+        "mean_Av_QPBB_non_i": 33.792197486450775,
+        "predicted_mos_mode3_baseline": 4.309306734227166,
+        "quant": 0.6625921075774661,
+        "std_FrameSize_non-i": 30514.557022224555,
+        "std_max_QP_non-i": 1.1594405301354616,
+        "vp9": 0.0
+    },
+    "per_second": [
+        4.186270533575972,
+        4.193940256574267,
+        4.206600463245588,
+        4.190691802809238,
+        4.186962681201843,
+        4.183404399841126,
+        4.1832812981074685,
+        4.188574322394581
+    ],
+    "per_sequence": 4.189967628196578,
+    "version": "0.1.2",
+    "video_basename": "Carousel-2_8s_0-8000.avi_2160p_crf26_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/Carousel-2_8s_0-8000.avi_2160p_crf26_hevc.mkv"
+}

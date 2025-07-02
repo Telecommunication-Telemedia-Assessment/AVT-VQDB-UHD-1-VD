@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:33:21.910905",
+    "debug": {
+        "coding_deg": 63.832244814981024,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894,
+        1.4028960590867894
+    ],
+    "per_sequence": 1.4028960590867894,
+    "version": "0.1.0",
+    "video_basename": "Moment_of_Intensity_8s_720p_crf38_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Moment_of_Intensity_8s_720p_crf38_hevc.mkv"
+}

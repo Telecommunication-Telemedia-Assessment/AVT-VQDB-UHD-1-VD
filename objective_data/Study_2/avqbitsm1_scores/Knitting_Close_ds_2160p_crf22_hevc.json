@@ -1,0 +1,25 @@
+{
+    "date": "2024-11-08 16:40:43.797337",
+    "debug": {
+        "coding_deg": 28.397266117401443,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 0.0
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246,
+        4.396399890164246
+    ],
+    "per_sequence": 4.396399890164246,
+    "version": "0.1.0",
+    "video_basename": "Knitting_Close_ds_2160p_crf22_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Knitting_Close_ds_2160p_crf22_hevc.mkv"
+}

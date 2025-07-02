@@ -1,0 +1,25 @@
+{
+    "date": "2024-11-08 16:33:21.318495",
+    "debug": {
+        "coding_deg": 41.254912462921055,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 16.767114378630264
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134,
+        2.5530112989243134
+    ],
+    "per_sequence": 2.5530112989243134,
+    "version": "0.1.0",
+    "video_basename": "Knitting_Close_ds_720p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Knitting_Close_ds_720p_crf30_hevc.mkv"
+}

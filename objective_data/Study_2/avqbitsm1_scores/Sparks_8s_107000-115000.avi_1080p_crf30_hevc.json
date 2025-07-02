@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:40:23.149755",
+    "debug": {
+        "coding_deg": 35.50365791004846,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 6.363528448747736
+    },
+    "model": "bitstream_mode1",
+    "per_second": [
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737,
+        3.5786309355257737
+    ],
+    "per_sequence": 3.5786309355257737,
+    "version": "0.1.0",
+    "video_basename": "Sparks_8s_107000-115000.avi_1080p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/Sparks_8s_107000-115000.avi_1080p_crf30_hevc.mkv"
+}

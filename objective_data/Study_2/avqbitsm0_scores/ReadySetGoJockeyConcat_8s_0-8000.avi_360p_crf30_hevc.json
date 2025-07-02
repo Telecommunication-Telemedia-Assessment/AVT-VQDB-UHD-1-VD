@@ -1,0 +1,23 @@
+{
+    "date": "2024-11-08 16:33:21.922518",
+    "debug": {
+        "coding_deg": 30.230955245486626,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 34.552161996309565
+    },
+    "model": "bitstream_mode0",
+    "per_second": [
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894,
+        2.1543522833173894
+    ],
+    "per_sequence": 2.1543522833173894,
+    "version": "0.1.0",
+    "video_basename": "ReadySetGoJockeyConcat_8s_0-8000.avi_360p_crf30_hevc.mkv",
+    "video_full_path": "../../avt-bigdata/co_worker/rakesh/4k_viewing_distance_2/videosegments/chosen/ReadySetGoJockeyConcat_8s_0-8000.avi_360p_crf30_hevc.mkv"
+}
