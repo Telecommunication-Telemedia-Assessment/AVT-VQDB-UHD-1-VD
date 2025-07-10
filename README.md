@@ -23,4 +23,4 @@ The dataset consists of subjective, objective, and video data.
 ## Download
 Download the subjective and objective data from this git. 
 
-Download the PVSs from here: [LINK TO VIDEO STIMULI](https://forms.gle/ohAPX8hpZsebVmNg8)
+Download the video data from here: [Link to video data](https://forms.gle/ohAPX8hpZsebVmNg8)
