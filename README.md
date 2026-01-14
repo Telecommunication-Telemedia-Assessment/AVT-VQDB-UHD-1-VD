@@ -7,11 +7,11 @@ However, to download the videos it is recommended to use the provided link, beca
 If you use any of the data or code please cite the following paper:
 
 ```bibtex
-@article{keller2025asubjective,
+@article{keller2026asubjective,
   title={A Subjective and Objective Evaluation of Viewing Distance and 4K Video Quality},
   author={Keller, Dominik and Ramachandra Rao, Rakesh Rao and Prenzel, Julius and Raake, Alexander},
   journal={to appear},
-  year={2025},
+  year={2026},
   publisher={to appear}
 }
 ```
@@ -24,3 +24,4 @@ The dataset consists of subjective, objective, and video data.
 Download the subjective and objective data from this git. 
 
 Download the video data from here: [Link to video data](https://forms.gle/ohAPX8hpZsebVmNg8)
+
